@@ -1,0 +1,7 @@
+{
+  "name": "lunch-roulette",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
